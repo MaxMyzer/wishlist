@@ -1,0 +1,9 @@
+## Geolocation Events
+Current implementation: Geolocation events are entity events that are for a point location
+Desired implementation: Allow for more complicated events. Examples or usecases and attributes:
+- "1D" path
+  - trace on a devices location over time
+  - storm arrival 
+- 2D polygon 
+  - effected areas of a weather alert
+  - area of a power outage
