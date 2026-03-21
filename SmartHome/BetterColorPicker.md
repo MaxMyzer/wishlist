@@ -1,3 +1,4 @@
+MaxMyzer/Lovelace-BetterLightColors
 ## Color Spaces
 Current implementatin: A simple RGB color wheel is presented to the user
 Desired behavior: Allow users to have the colors presented in other formats, like HSV and OkLAB.
